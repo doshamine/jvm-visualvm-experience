@@ -53,7 +53,7 @@ Please open 'ru.netology.JvmExperience' in VisualVm
 10:42:46.860137: creating 5000000 objects
 ```
 ![График зависимости объема кучи от времени](src/main/resources/screenshots/heap1.png)
-8. В результате занятый объем кучи увеличился примерно на 200.
+8. В результате занятый объем кучи увеличился примерно на 200 Мб.
 ```
 10:42:47.092354: created
 ```
